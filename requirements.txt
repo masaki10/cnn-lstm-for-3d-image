@@ -1,0 +1,76 @@
+absl-py==0.15.0
+aiohttp==3.8.1
+aiosignal==1.2.0
+astunparse==1.6.3
+async-timeout==4.0.2
+asynctest==0.13.0
+attrs==21.4.0
+cached-property==1.5.2
+cachetools==4.2.4
+certifi==2021.5.30
+charset-normalizer==2.0.12
+clang==5.0
+cycler==0.11.0
+dataclasses==0.8
+decorator==4.4.2
+efficientnet @ git+https://github.com/qubvel/efficientnet@f7f3e736c113b872caf53dae9fbbda996a8eb87d
+efficientnet-3D==1.0.2
+flatbuffers==1.12
+frozenlist==1.2.0
+gast==0.4.0
+google-auth==1.35.0
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio==1.44.0
+h5py==3.1.0
+idna==3.3
+idna-ssl==1.1.0
+imageio==2.15.0
+importlib-metadata==4.8.3
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+keras @ file:///home/ktietz/ci_310/keras_split_1643826818613/work/keras-2.6.0-py2.py3-none-any.whl
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+kiwisolver==1.3.1
+Markdown==3.3.6
+matplotlib==3.3.4
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+multidict==5.2.0
+networkx==2.5.1
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603480701039/work
+oauthlib==3.2.0
+opt-einsum==3.3.0
+Pillow==8.4.0
+protobuf==3.19.4
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pyparsing==3.0.7
+python-dateutil==2.8.2
+PyWavelets==1.1.1
+requests==2.27.1
+requests-oauthlib==1.3.1
+rsa==4.8
+scikit-image==0.17.2
+scikit-learn @ file:///C:/ci/scikit-learn_1622739439730/work
+scipy @ file:///C:/ci/scipy_1597675683670/work
+six==1.15.0
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.6.2
+tensorflow-estimator==2.6.0
+tensorflow-hub==0.12.0
+termcolor==1.1.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tifffile==2020.9.3
+typing-extensions==3.7.4.3
+urllib3==1.26.9
+vtk==9.1.0
+Werkzeug==2.0.3
+wincertstore==0.2
+wrapt==1.12.1
+wslink==1.5.2
+yarl==1.7.2
+zipp==3.6.0
